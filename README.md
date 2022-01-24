@@ -20,9 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-
+![](https://user-images.githubusercontent.com/4615567/150708666-aa07fefc-bf3c-45ff-86be-43d13bb26c34.png)
 
 ### Links
 
@@ -54,6 +52,4 @@ Using this platform to continue to develop my learning on the path of frontend d
 
 - Website - [Pochedesk](https://pochedesk.wordpress.com/)
 - Frontend Mentor - [@Poche89](https://www.frontendmentor.io/profile/Poche89)
-- Twitter - [@YeyoPoche]https://twitter.com/YeyoPoche)
-
-
+- Twitter - [@YeyoPoche](https://twitter.com/YeyoPoche)
